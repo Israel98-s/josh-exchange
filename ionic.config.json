@@ -1,0 +1,8 @@
+{
+  "name": "josh exchange",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "49c59acd"
+}
